@@ -14,8 +14,6 @@ function ScrollToTop() {
   return null;
 }
 
-const HERO_BG = "https://images.unsplash.com/photo-1581578731548-c64695cc6952?q=80&w=2070&auto=format&fit=crop";
-
 // Specific category images for services
 const IMG_BUE = "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=600&auto=format&fit=crop";
 const IMG_GLAS = "https://images.unsplash.com/photo-1527192491265-7e15c55b1ed2?q=80&w=600&auto=format&fit=crop";
@@ -127,7 +125,6 @@ function Hero() {
           muted 
           playsInline 
           className="w-full h-full object-cover opacity-100"
-          poster={HERO_BG}
         >
           {/* Abstract clean video placeholder */}
           <source src="https://res.cloudinary.com/dvwijhs3c/video/upload/q_auto/f_auto/v1779206015/8440520-hd_2048_1080_25fps_vzabxd.mp4" type="video/mp4" />
