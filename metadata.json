@@ -1,0 +1,6 @@
+{
+  "name": "ACAT Gebäudereinigung",
+  "description": "Moderne Website für eine lokale Gebäudereinigungsfirma in Karlsruhe mit SEO-Optimierung",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
